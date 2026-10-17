@@ -1,0 +1,8 @@
+2026-10-17T10:00:00 GET /api/users/42 200 35ms
+2026-10-17T10:00:01 POST /api/pay 200 220ms
+2026-10-17T10:00:02 POST /api/pay 500 900ms
+2026-10-17T10:00:03 GET /api/users/7 200 40ms
+2026-10-17T10:00:04 GET /api/health 200 2ms
+garbage line
+2026-10-17T10:00:05 POST /api/transfer 201 310ms
+2026-10-17T10:00:06 GET /api/users/1 404 15ms
