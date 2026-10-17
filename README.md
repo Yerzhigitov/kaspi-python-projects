@@ -4,6 +4,7 @@
 
 | Проект | О чём | Ключевые темы |
 |---|---|---|
+| [tour-booking-api](https://github.com/Yerzhigitov/tour-booking-api) | Бронирование туров | Django, DRF, PostgreSQL, `select_for_update`, идемпотентность, Docker |
 | [wallet-api](https://github.com/Yerzhigitov/wallet-api) | REST-сервис кошельков и переводов | FastAPI, PostgreSQL, `SELECT ... FOR UPDATE`, идемпотентность, Docker |
 | [wallet-core](https://github.com/Yerzhigitov/wallet-core) | In-memory ядро кошелька | `Decimal`, блокировки, идемпотентные операции, журнал транзакций |
 | [rate-limiter](https://github.com/Yerzhigitov/rate-limiter) | Rate limiter'ы | Token Bucket, Sliding Window, декораторы |
