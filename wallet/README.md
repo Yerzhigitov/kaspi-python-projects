@@ -21,4 +21,4 @@ bank.deposit(a, "1000")
 bank.transfer(a, b, "250.50", key="order-42")
 ```
 
-Production-версия с PostgreSQL: [../wallet-api](../wallet-api/).
+Production-версия с PostgreSQL: [wallet-api](https://github.com/Yerzhigitov/wallet-api).
